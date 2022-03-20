@@ -2,4 +2,4 @@
 # Visual Studio Codeの練習
 
 練習です。
-Githubでファイルで変更,again,again,again
+GithubでFileで変更,again,again,again
