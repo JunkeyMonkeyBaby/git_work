@@ -1,2 +1,4 @@
 # git_work
-sandbox for myself
+# Visual Studio Codeの練習
+
+練習です。
